@@ -6,6 +6,7 @@ To install and run the project locally, follow these steps:
 •	Navigate to the project directory: cd Todo_App
 •	Install the dependencies: npm install
 •	Start the development server: npm start
+
 The app will now be running at 
 
 frontend

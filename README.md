@@ -1,5 +1,11 @@
 # Todo_App
 
+REST API
+React Js
+Node Js
+Express
+No Database
+
 Installation
 To install and run the project locally, follow these steps:
 •	Clone the repository: git clone https://github.com/medesigndd/Todo_App.git
